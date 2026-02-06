@@ -1,16 +1,24 @@
-## Hi there 👋
+  # Olá! Eu sou o Pedro henrique 👋
 
-<!--
-**pdrin7/pdrin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como professor em cursos profissionalizantes [área de TI] do Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS), campus Poços de Caldas  
+  
+- 🔭 Tenho lecionado as seguintes disciplinas: Sistemas Operacionais, Redes de Computadores, Programação Web, Programação para Dispositivos Móveis  
 
-Here are some ideas to get you started:
+- 🌱 Recetentemente comecei a estudar sobre Agentes Inteligentes focados na análise e negociação de criptoativos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Estou em busca de projetos open-source para colaborar, principalmente aqueles envolvendo areas como Sistemas Operacionais, Redes de Computadores, Programação Web e agentes inteligentes  
+
+- 📫 Canais de contato: youtube, instagram, linkedin  
+
+## Minhas estatísticas
+
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=douglasnunesif&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+## Tecnologias que mais utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=aws,git,java,c,html,css,js,react,mysql)](https://skillicons.dev)
+
+<!-- Instagram -->
+  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
